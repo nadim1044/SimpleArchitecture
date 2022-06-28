@@ -16,7 +16,6 @@
 
 
     <style name="DialogCustom" parent="@android:style/Theme.Dialog">
-
         <item name="android:windowFullscreen">true</item>
         <item name="android:windowBackground">@color/white</item>
         <item name="android:windowFrame">@null</item>

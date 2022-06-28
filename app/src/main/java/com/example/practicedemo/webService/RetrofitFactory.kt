@@ -9,7 +9,9 @@ import retrofit2.converter.gson.GsonConverterFactory
 import java.util.concurrent.TimeUnit
 
 class RetrofitFactory {
+
     companion object {
+
 
         val rectr by lazy {
             Retrofit.Builder()
